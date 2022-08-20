@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1072874911433",
+    "firebase_url": "https://newquiz-59a3b.firebaseio.com",
+    "project_id": "newquiz-59a3b",
+    "storage_bucket": "newquiz-59a3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1072874911433:android:f506cf8741bcb7c3b77f18",
+        "android_client_info": {
+          "package_name": "com.Segev.QuizTime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1072874911433-b48469ufclkvpkhu00mnc8jopf58qqvo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.newquiz",
+            "certificate_hash": "08ea8955092abf1031305086031e00ea2ab66c25"
+          }
+        },
+        {
+          "client_id": "1072874911433-o8fkgkm9b1m8rqt25ljcrcbdu7p5l0be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcjov4Ef4xq_TPqOIzuqV1rbu-f5NUgbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1072874911433-o8fkgkm9b1m8rqt25ljcrcbdu7p5l0be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
