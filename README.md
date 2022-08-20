@@ -1,5 +1,5 @@
 # QuizTime
-Simple trivia App using Java.
+Simple trivia App for Android using Java.
 <br>
 <h3>What the app includes?</h3>
 <ol>
