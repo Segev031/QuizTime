@@ -24,6 +24,9 @@ Internet Check (With BroadcastReceiver)
 <li>
 Notifications
 </li>
+<li>
+Changing Gradient Backgrounds.
+</li>
 </ol>
 <br>
 <br>
